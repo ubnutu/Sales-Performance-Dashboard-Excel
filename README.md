@@ -43,7 +43,7 @@ This project focuses on analyzing sales performance using Microsoft Excel. An in
 
 ## 📷 Dashboard Preview
 
-![Sales Performance Dashboard](Sales%20performance%20dashboard.png)
+[![Sales Performance Dashboard](Sales%20performance%20dashboard.png)](https://github.com/ubnutu/Sales-Performance-Dashboard-Excel/blob/main/Sales-Performance-Dashboard-Excel/Sales%20performance%20dashboard.png)
 ## 👨‍💻 Author
 Gaurav Tomar
 
